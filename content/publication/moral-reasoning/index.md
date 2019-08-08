@@ -4,7 +4,7 @@ authors:
 - Roger P. Alford
 - admin
 
-date: "2010-10-01T00:00:00Z"
+date: "2011-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -14,16 +14,16 @@ publishDate: "2019-08-07T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "77 University of Chicago Law Review 1841 (2010)"
-publication_short: "U. Chi. L. Rev."
+publication: "in The Role of Ethics in International Law (Donald Earl Childress, ed., Cambridge University Press 2011)"
+publication_short: "The Role of Ethics in International Law (Cambridge 2011)"
 
-abstract: Courts sometimes reject a criminal defendant's motion to dismiss on the ground that there is no summary judgment in criminal procedure. This Comment challenges that conventional wisdom, showing how most courts of appeals actually recognize the so-called "summary dismissal" under Federal Rule of Criminal Procedure 12(b)(2), which permits motions raising "any defense, objection, or request that the court can determine without a trial of the general issue." Like summary judgment, these dismissals allow the parties to litigate pure questions of law when there are no disputes about the material facts. The analogy is nonetheless imperfect, because dismissals (unlike judgments) lack preclusive double-jeopardy effect. This Comment surveys the circuit split about summary dismissals, proposes a way of harmonizing the courts' disparate positions, and defends summary dismissal as a viable way for defense counsel to test the strength of the government's legal theory before trial. Suppose a criminal defendant moves to dismiss an indictment and stipulates to the government's factual allegations. The burden shifts to the government to show a need for further factual inquiry - either through a full proffer of its evidence at trial or through in camera review of the disputed facts. If the government cannot make this showing, it would have to defeat the defendant's challenge to its legal theory to avoid having the indictment dismissed. This procedure, similar but not identical to summary judgment under Federal Rule of Civil Procedure 56, serves judicial economy, gives defendants ex ante information about the expected payoffs of pleading guilty or going to trial, and preserves the government's right to appeal.
+abstract: Individuals comply with rules for different reasons. Some do so out of fear of punishment, others out of respect for social order, while still others out of a perception that a norm has intrinsic moral force. States, acting through human agents, likewise differ in the reasons they comply with international norms. State compliance with such norms may be motivated by a desire to avoid sanctions, obedience to authority, utilitarian compliance, socialization, reputational concerns, or norm internalization. Traditional accounts of international law compliance have focused on one or another of these motivations to the exclusion of others, thus failing to present the whole picture. We challenge these traditional accounts and instead present a “moral reasoning” theory that seeks a wider understanding of the reasons states comply. We focus less on traditional debates in international law largely because our theory better accounts for how people make and carry out international-law compliance decisions in real life. Moral reasoning is how people give reasons or arguments in the context of moral judgment. In turn, moral judgment is the cognitive process that people use to choose between inconsistent interests, values claims, and norms – where the inconsistency means the person is pulled toward opposite behaviors. These decisions are “moral” because they involve the ordering of self- and other-regarding interests. Our law-and-psychology focus tries to show how human agents who “do” international law conceive of their relationship with specific norms, with each other, and with the structure of international society. Scholars have largely bracketed reasoning by agents acting on the state’s behalf – surprisingly, even in the constructivist project. We attempt to fill that gap with a law-and-psychology approach that follows an emerging scholarly agenda in understanding the psychological bases of motivation to obey norms and the law. As we show in Part II, existing scholarly explanations for state compliance with international law emphasize one motivating logic over all others – for example, instrumental over normative thinking. But a realistic model of how political actors respond to international norms would situate the compliance motive within multiple motivational logics. Our argument proceeds like this. In Part II, we describe existing compliance theories and explain how these theories fail to tell the whole story. In Part III, we explain Kohlberg’s theories and argue that, as applied in international law, they fill this gap. Assuming that successful political actors have progressed through the stages of Kohlberg’s theory, they will have a plethora of rhetorical options to choose from. In justifying compliance or noncompliance, actors’ choice of a given rhetorical strategy – for example, “ethical” over instrumental language, or vice versa – will depend on moral atmosphere: the audience’s predominant reasoning stage (an empirical question) and the actor’s relationship with the audience. Finally, in Part IV, we consider this thickly descriptive theory in the context of case studies about contemporary moral dilemmas in international law.
 
 # Summary. An optional shortened abstract.
-summary: This Comment addresses whether federal courts can dismiss indictments for failure to state an offense.
+summary: Our law-and-psychology approach shows how the people who "do" international law use rhetroical strategies for compliance decisions.
 
 tags:
 - Source Themes
