@@ -28,8 +28,8 @@ tags:
 featured: false
 
 # links:
- - name: "SSRN"
-   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1493842"
+# - name: "SSRN"
+#   url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1493842"
 url_pdf: https://chicagounbound.uchicago.edu/uclrev/vol77/iss4/6/
 url_code: ''
 url_dataset: ''
