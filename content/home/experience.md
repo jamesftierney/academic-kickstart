@@ -27,10 +27,10 @@ date_format = "Jan 2006"
   description = "I serve as Senior Counsel within the Adjudication Group of the Office of the General Counsel. In this role, I act as counsel to the Commission with respect to contested appeals from decisions of administrative law judges, self-regulatory organizations, and the Public Company Accounting Oversight Board, and with respect to administrative proceedings set for a hearing before the Commission itself. I advise the Commission on the resolution of the issues raised in these matters; review the evidence and briefs, and conduct legal research; draft orders in response to the parties' motions; and draft opinions of the Commission as final agency action in these matters. I also communicate with stakeholders around the Commission's staff, and with the Commission in these matters through action and pre-argument memoranda and at closed Commission meetings."
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Associate, Supreme Court and appellate litigation"
+  company = "Mayer Brown LLP"
   company_url = ""
-  location = "California"
+  location = "Washington DC"
   date_start = "2012-10-15"
   date_end = "2015-08-14"
   description = """
@@ -52,9 +52,9 @@ In addition to representing clients after disputes arise, I counseled clients in
   title = "Judicial clerk to the Honorable Mary Schroeder"
   company = "U.S. Court of Appeals for the Ninth Circuit"
   company_url = ""
-  location = "Washington DC"
-  date_start = "2015-09-07"
-  date_end = ""
+  location = "Phoenix AZ"
+  date_start = "2011-09-01"
+  date_end = "2012-08-02"
   description = "I advised the Honorable Mary Schroeder, Circuit Judge, in resolving legal and factual issues presented in the parties' briefs on appeal, preparing for oral argument, researching and drafting opinions and orders, and handling motions for panel and en banc rehearing."
 
 +++
