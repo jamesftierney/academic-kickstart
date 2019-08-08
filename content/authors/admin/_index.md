@@ -68,6 +68,6 @@ email: ""
 #- Visitors
 ---
 
-I am senior counsel at the Securities and Exchange Commission’s Office of the General Counsel. In that role, I advise the SEC in administrative appeals involving all aspects of the federal securities laws, and prepare written opinions constituting final agency action. Before joining the SEC’s staff in 2015, I practiced appellate litigation and regulatory policy, and clerked for Judge Mary Schroeder of the U.S. Court of Appeals for the Ninth Circuit. 
+I am senior counsel at the Securities and Exchange Commission’s Office of the General Counsel. In that role, I advise the SEC in administrative appeals involving all aspects of the federal securities laws, and prepare written opinions constituting final agency action. Before joining the SEC’s staff in 2015, I practiced appellate litigation and regulatory policy at Mayer Brown LLP for three years, and clerked for Judge Mary Schroeder of the U.S. Court of Appeals for the Ninth Circuit. 
 
 My primary areas of research and teaching interest include securities regulation, corporate and business law, contracts, and related subjects.
