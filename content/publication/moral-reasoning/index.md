@@ -23,7 +23,7 @@ publication_short: "The Role of Ethics in International Law (Cambridge 2011)"
 abstract: We challenge traditional accounts of compliance with international law and present a moral reasoning theory that seeks a wider understanding of the reasons states comply. Moral reasoning is how people give reasons or arguments in the context of moral judgment, or the cognitive process that people use to choose between inconsistent interests, values claims, or norms. Our law and psychology focus shows how human agents who "do" international law conceive of their relationship with specific norms, with each other, and with the structure of international society. Drawing from Lawrence Kohlberg's theory of moral reasoning, we argue that in justifying compliance or noncompliance, actors' choice of a given rhetorical strategy depends on the audience's predominant reasoning stage and the actor's relationship with the audience. We consider this thickly descriptive theory in the context of case studies about contemporary moral dilemmas in international law.
 
 # Summary. An optional shortened abstract.
-summary: Our law and psychology approach shows how the people who "do" international law use rhetroical strategies for compliance decisions.
+summary: Our law and psychology approach shows how the people who "do" international law use rhetorical strategies for compliance decisions.
 
 tags:
 - Source Themes
