@@ -22,7 +22,7 @@ abstract: "This article identifies and explains an overlooked puzzle about consu
 I identify a novel function of these terms: their audience is not courts or consumers, but policymakers deciding whether to prohibit other contract terms that are more important to companies. Drawing on behavioral law and economics, and illustrating with a case study, this article shows how companies use high-quality terms to frame the status quo rule. High-quality terms help show how the status quo rule might benefit hypothetical consumers (who never actually use these terms), letting companies appeal to policymakers' cognitive biases so they perceive status quo rules as better than they actually are. This has important theoretical and practical implications. Because contracts' framing effects put a thumb on the scale against reform, reformers should take them into account. And we might reconsider claims in policy debates about how society benefits from what status quo rules let companies do."
 
 # Summary. An optional shortened abstract.
-summary: This article addresses an underappreciated public-law aspect of contract design: anticipatory self-regulation to frame the status quo legal rule as superior to reform alternatives.
+summary: "This article addresses an underappreciated public-law aspect of contract design: anticipatory self-regulation to frame the status quo legal rule as superior to reform alternatives."
 
 tags:
 - Source Themes
