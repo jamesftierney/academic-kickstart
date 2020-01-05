@@ -16,6 +16,7 @@ role: Senior Counsel, Office of the General Counsel
 organizations:
 - name: U.S. Securities and Exchange Commission
   url: ""
+- name: University of Nebraska College of Law (beginning fall 2020)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research and teaching interests include securities regulation, business law, contracts, and other subjects related to the behavioral law and economics of retail securities markets.
@@ -68,6 +69,6 @@ email: ""
 #- Visitors
 ---
 
-My primary areas of research and teaching interest include securities regulation, corporate and business law, contracts, and other subjects related to the behavioral law and economics of retail securities markets. 
+Beginning fall 2020, I will be an assistant professor of law at the University of Nebraska College of Law, where I will teach business associations and related classes. Building on my practice experience, my primary area of research and teaching interest is securities regulation, and in particular the behavioral law and economics of retail securities markets, investment advice, intermediation, and self-regulation. My additional areas of interest include corporate and business-entity law, contracts, and fiduciary law. 
 
-I am senior counsel at the Securities and Exchange Commission’s Office of the General Counsel. In that role, I advise the SEC in administrative appeals involving all aspects of the federal securities laws, and prepare written opinions constituting final agency action. Before joining the SEC’s staff in 2015, I practiced Supreme Court and appellate litigation, and regulatory policy, at Mayer Brown LLP for three years, and clerked for Judge Mary Schroeder of the U.S. Court of Appeals for the Ninth Circuit. 
+Through summer 2020, I am senior counsel at the Securities and Exchange Commission’s Office of the General Counsel. In that role, I advise the SEC in administrative appeals involving all aspects of the federal securities laws, and prepare written opinions constituting final agency action. Before joining the SEC’s staff in 2015, I practiced Supreme Court and appellate litigation, and regulatory policy, at Mayer Brown LLP for three years, and clerked for Judge Mary Schroeder of the U.S. Court of Appeals for the Ninth Circuit. 
