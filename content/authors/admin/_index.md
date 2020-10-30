@@ -10,16 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Counsel, Office of the General Counsel
+role: Assistant professor of law
 
 # Organizations/Affiliations
 organizations:
-- name: U.S. Securities and Exchange Commission
-  url: ""
-- name: University of Nebraska College of Law (beginning August 2020)
+- name: University of Nebraska College of Law
+  url: "https://law.unl.edu/james-f-tierney/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research and teaching interests focus on securities regulation and enforcement with respect to intermediaries in retail securities markets, as well as business associations, corporate finance, and mergers and acquisitions.
+bio: Professor Tierney's research interests focus on capital markets regulation, corporate finance and governance, political economy, and law as data.
 
 interests:
 - Securities regulation
@@ -56,9 +55,9 @@ social:
   link: https://github.com/jamesftierney
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +69,6 @@ email: ""
 #- Visitors
 ---
 
-Beginning fall 2020, I will be an assistant professor of law at the University of Nebraska College of Law, where I will teach business associations and related classes. Building on my practice experience, my research and teaching interests focus on securities regulation and enforcement with respect to intermediaries in retail securities markets. My interests also include business associations, corporate finance, mergers and acquisitions, and behavioral law and economics.
+I am an assistant professor of law at the University of Nebraska College of Law. I teach core and advanced classes in business law, including business associations, securities regulation, and corporate finance. My research focuses on regulation and enforcement with respect to intermediaries in retail securities markets; corporate finance and governance; contract design and the analysis of textual data; behavioral economics of financial markets regulation; and political economy. 
 
-Through summer 2020, I am senior counsel at the Securities and Exchange Commission’s Office of the General Counsel. In that role, I advise the SEC in administrative appeals involving all aspects of the federal securities laws, and prepare written opinions constituting final agency action. Before joining the SEC’s staff in 2015, I practiced Supreme Court and appellate litigation, and regulatory policy, at Mayer Brown LLP for three years, and clerked for Judge Mary Schroeder of the U.S. Court of Appeals for the Ninth Circuit. 
+Before joining the Nebraska faculty, I was senior counsel at the Securities and Exchange Commission’s Office of the General Counsel, in which role I advised the SEC on administrative proceedings involving all aspects of the federal securities laws. Before joining the SEC’s staff in 2015, I practiced regulatory policy and Supreme Court and appellate litigation at Mayer Brown LLP for three years, and clerked for Judge Mary Schroeder of the U.S. Court of Appeals for the Ninth Circuit. 
